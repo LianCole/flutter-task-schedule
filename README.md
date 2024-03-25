@@ -46,6 +46,7 @@ Step-3: Run flutter project -
 - Visual Studio Code (Optional)
 - Flutter
 - Dart
+- LDPlayer or Nox
 
 ## New to Flutter project!
 
